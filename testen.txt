@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test 1
 
 kip!!!!!!!!!!!!!!
+=======
+hallo 1 2 3 fsrxgdz 
+>>>>>>> 449d91c81b6e4d5b5f9644807de3a8a3b11f7506
